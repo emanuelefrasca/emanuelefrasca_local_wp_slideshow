@@ -1,0 +1,26 @@
+/*
+ Theme Name:     CosmOne Child
+ Theme URI:      http: //www.mageewp.com/cosmone/
+ Description:    CosmOne Child Theme
+ Author:         Magee
+ Author URI:     http: //www.mageewp.com/
+ Template:       cosmone
+ Version:        1.0.0
+*/
+
+@import url("../cosmone/style.css");
+
+/* =Theme customization starts here
+You can add new styles here for elements that have been created by you.
+-------------------------------------------------------------- */
+
+.navbar-onex{ 
+ background-color:black; 
+ color:#fff;
+ }
+ .site-name{
+  color:#fff;
+  }
+.navbar-onex .navbar-nav li a{
+ color:#fff;
+}

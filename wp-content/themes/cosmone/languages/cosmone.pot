@@ -1,0 +1,2670 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cosmone 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-04-18 14:14+0800\n"
+"PO-Revision-Date: 2014-04-18 14:14+0800\n"
+"Last-Translator: shijun quan <hoosoft@hotmail.com>\n"
+"Language-Team: MageeWP <support@mageewp.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: "
+"\\cosmone\n"
+
+#: cosmone/comments.php:12
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: cosmone/comments.php:21
+msgid "No comment"
+msgstr ""
+
+#: cosmone/comments.php:21
+msgid "Has one comment"
+msgstr ""
+
+#: cosmone/comments.php:21
+#: cosmone/single.php:34
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: cosmone/comments.php:21
+#, php-format
+msgid "to &#8220;%s&#8221;"
+msgstr ""
+
+#: cosmone/comments.php:22
+msgid "You can "
+msgstr ""
+
+#: cosmone/comments.php:22
+msgid "leave a reply"
+msgstr ""
+
+#: cosmone/comments.php:22
+msgid " or "
+msgstr ""
+
+#: cosmone/comments.php:22
+msgid "Trackback"
+msgstr ""
+
+#: cosmone/comments.php:22
+msgid "this post."
+msgstr ""
+
+#: cosmone/comments.php:34
+msgid "Comment pages"
+msgstr ""
+
+#: cosmone/comments.php:64
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: cosmone/comments.php:77
+msgid "Your email address will not be published."
+msgstr ""
+
+#: cosmone/comments.php:80
+msgid "Write a Reply or Comment"
+msgstr ""
+
+#: cosmone/content-article.php:28
+msgid "&gt;&gt;Read More"
+msgstr ""
+
+#: cosmone/content-none.php:10
+msgid "Nothing Found"
+msgstr ""
+
+#: cosmone/content-none.php:16
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: cosmone/content-none.php:20
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+
+#: cosmone/content-none.php:25
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: cosmone/footer.php:5
+msgid "TOP"
+msgstr ""
+
+#: cosmone/header-site.php:50
+#: cosmone/header.php:51
+msgid "Toggle navigation"
+msgstr ""
+
+#: cosmone/page.php:42
+#: cosmone/single.php:40
+msgid "Pages:"
+msgstr ""
+
+#: cosmone/single.php:34
+msgid "No comments yet"
+msgstr ""
+
+#: cosmone/single.php:34
+msgid "1 comment "
+msgstr ""
+
+#: cosmone/includes/class-breadcrumb.php:28
+#: cosmone/includes/class-breadcrumb.php:195
+msgid "Home"
+msgstr ""
+
+#: cosmone/includes/class-breadcrumb.php:129
+msgid "404 - Page not Found"
+msgstr ""
+
+#: cosmone/includes/class-breadcrumb.php:131
+msgid "Search"
+msgstr ""
+
+#: cosmone/includes/class-breadcrumb.php:192
+msgid "You are here:"
+msgstr ""
+
+#: cosmone/includes/class-breadcrumb.php:397
+msgid "g:i a"
+msgstr ""
+
+#: cosmone/includes/class-breadcrumb.php:400
+#, php-format
+msgid "Minute %1$s"
+msgstr ""
+
+#: cosmone/includes/class-breadcrumb.php:400
+msgid "i"
+msgstr ""
+
+#: cosmone/includes/class-breadcrumb.php:403
+msgid "g a"
+msgstr ""
+
+#: cosmone/includes/class-breadcrumb.php:414
+#: cosmone/includes/class-breadcrumb.php:420
+#: cosmone/includes/class-breadcrumb.php:425
+#: cosmone/includes/class-breadcrumb.php:430
+msgid "Y"
+msgstr ""
+
+#: cosmone/includes/class-breadcrumb.php:415
+#: cosmone/includes/class-breadcrumb.php:426
+msgid "F"
+msgstr ""
+
+#: cosmone/includes/class-breadcrumb.php:416
+msgid "j"
+msgstr ""
+
+#: cosmone/includes/class-breadcrumb.php:421
+#, php-format
+msgid "Week %1$s"
+msgstr ""
+
+#: cosmone/includes/class-breadcrumb.php:437
+#, php-format
+msgid "Search results for &quot;%1$s&quot;"
+msgstr ""
+
+#: cosmone/includes/class-breadcrumb.php:441
+msgid "404 Not Found"
+msgstr ""
+
+#: cosmone/includes/cosmone-shortcodes.php:44
+#: cosmone/includes/cosmone-shortcodes.php:62
+msgid "Button Color"
+msgstr ""
+
+#: cosmone/includes/cosmone-shortcodes.php:45
+#: cosmone/includes/cosmone-shortcodes.php:170
+msgid "Active Item"
+msgstr ""
+
+#: cosmone/includes/cosmone-shortcodes.php:46
+#: cosmone/includes/cosmone-shortcodes.php:51
+#: cosmone/includes/cosmone-shortcodes.php:57
+#: cosmone/includes/cosmone-shortcodes.php:68
+#: cosmone/includes/cosmone-shortcodes.php:77
+#: cosmone/includes/cosmone-shortcodes.php:93
+#: cosmone/includes/cosmone-shortcodes.php:102
+#: cosmone/includes/cosmone-shortcodes.php:110
+#: cosmone/includes/cosmone-shortcodes.php:116
+#: cosmone/includes/cosmone-shortcodes.php:121
+#: cosmone/includes/cosmone-shortcodes.php:127
+#: cosmone/includes/cosmone-shortcodes.php:137
+#: cosmone/includes/cosmone-shortcodes.php:148
+#: cosmone/includes/cosmone-shortcodes.php:160
+#: cosmone/includes/cosmone-shortcodes.php:165
+#: cosmone/includes/cosmone-shortcodes.php:171
+#: cosmone/includes/cosmone-shortcodes.php:177
+#: cosmone/includes/cosmone-shortcodes.php:184
+#: cosmone/includes/cosmone-shortcodes.php:189
+#: cosmone/includes/cosmone-shortcodes.php:205
+msgid "Css Class"
+msgstr ""
+
+#: cosmone/includes/cosmone-shortcodes.php:47
+#: cosmone/includes/cosmone-shortcodes.php:52
+#: cosmone/includes/cosmone-shortcodes.php:58
+#: cosmone/includes/cosmone-shortcodes.php:78
+#: cosmone/includes/cosmone-shortcodes.php:103
+#: cosmone/includes/cosmone-shortcodes.php:117
+#: cosmone/includes/cosmone-shortcodes.php:122
+#: cosmone/includes/cosmone-shortcodes.php:149
+#: cosmone/includes/cosmone-shortcodes.php:172
+#: cosmone/includes/cosmone-shortcodes.php:190
+#: cosmone/includes/theme-options.php:407
+msgid "Content"
+msgstr ""
+
+#: cosmone/includes/cosmone-shortcodes.php:50
+msgid "Accordion Title"
+msgstr ""
+
+#: cosmone/includes/cosmone-shortcodes.php:56
+msgid "Align"
+msgstr ""
+
+#: cosmone/includes/cosmone-shortcodes.php:63
+msgid "Button Style"
+msgstr ""
+
+#: cosmone/includes/cosmone-shortcodes.php:64
+msgid "Icon in Button"
+msgstr ""
+
+#: cosmone/includes/cosmone-shortcodes.php:65
+#: cosmone/includes/cosmone-shortcodes.php:145
+msgid "Button Text"
+msgstr ""
+
+#: cosmone/includes/cosmone-shortcodes.php:66
+#: cosmone/includes/cosmone-shortcodes.php:146
+msgid "Button Link"
+msgstr ""
+
+#: cosmone/includes/cosmone-shortcodes.php:67
+msgid "Link Target"
+msgstr ""
+
+#: cosmone/includes/cosmone-shortcodes.php:73
+msgid "Extra small grid( &lt; 768px)"
+msgstr ""
+
+#: cosmone/includes/cosmone-shortcodes.php:73
+msgid "Select column width. This width will be calculated depend page width."
+msgstr ""
+
+#: cosmone/includes/cosmone-shortcodes.php:74
+msgid "Small grid(&ge;  768px)"
+msgstr ""
+
+#: cosmone/includes/cosmone-shortcodes.php:75
+msgid "Medium grid( &ge;  992px)"
+msgstr ""
+
+#: cosmone/includes/cosmone-shortcodes.php:76
+msgid "Large grid( &ge;  1200px))"
+msgstr ""
+
+#: cosmone/includes/cosmone-shortcodes.php:92
+msgid "Your Email Here"
+msgstr ""
+
+#: cosmone/includes/cosmone-shortcodes.php:92
+msgid "Send To"
+msgstr ""
+
+#: cosmone/includes/cosmone-shortcodes.php:98
+msgid "Width"
+msgstr ""
+
+#: cosmone/includes/cosmone-shortcodes.php:99
+msgid "Address"
+msgstr ""
+
+#: cosmone/includes/cosmone-shortcodes.php:100
+msgid "Marker"
+msgstr ""
+
+#: cosmone/includes/cosmone-shortcodes.php:101
+msgid "Zoom"
+msgstr ""
+
+#: cosmone/includes/cosmone-shortcodes.php:108
+#: cosmone/includes/cosmone-shortcodes.php:115
+msgid "Font Awesome Icon Name"
+msgstr ""
+
+#: cosmone/includes/cosmone-shortcodes.php:109
+msgid "Icon Size"
+msgstr ""
+
+#: cosmone/includes/cosmone-shortcodes.php:125
+#: cosmone/includes/cosmone-shortcodes.php:164
+msgid "Icon"
+msgstr ""
+
+#: cosmone/includes/cosmone-shortcodes.php:126
+#: cosmone/options/includes/ot-functions-admin.php:2740
+#: cosmone/options/includes/ot-functions-admin.php:2796
+msgid "Link"
+msgstr ""
+
+#: cosmone/includes/cosmone-shortcodes.php:132
+#: cosmone/includes/cosmone-shortcodes.php:142
+#: cosmone/includes/cosmone-shortcodes.php:157
+#: cosmone/includes/cosmone-shortcodes.php:180
+#: cosmone/includes/cosmone-shortcodes.php:188
+#: cosmone/includes/cosmone-shortcodes.php:201
+msgid "Style"
+msgstr ""
+
+#: cosmone/includes/cosmone-shortcodes.php:133
+msgid "Portfolio Category"
+msgstr ""
+
+#: cosmone/includes/cosmone-shortcodes.php:134
+#: cosmone/includes/cosmone-shortcodes.php:202
+msgid "List Num"
+msgstr ""
+
+#: cosmone/includes/cosmone-shortcodes.php:135
+msgid "Show Pagination"
+msgstr ""
+
+#: cosmone/includes/cosmone-shortcodes.php:136
+msgid "Columns"
+msgstr ""
+
+#: cosmone/includes/cosmone-shortcodes.php:143
+#: cosmone/includes/cosmone-shortcodes.php:158
+#: cosmone/includes/cosmone-shortcodes.php:163
+#: cosmone/includes/postType-portfolio.php:60
+#: cosmone/includes/postType-section.php:55
+#: cosmone/includes/theme-options.php:393
+#: cosmone/options/includes/ot-functions-admin.php:3679
+#: cosmone/options/includes/ot-meta-box-api.php:202
+#: cosmone/options/includes/ot-settings-api.php:595
+msgid "Title"
+msgstr ""
+
+#: cosmone/includes/cosmone-shortcodes.php:144
+msgid "Price"
+msgstr ""
+
+#: cosmone/includes/cosmone-shortcodes.php:147
+msgid "Button Link Target"
+msgstr ""
+
+#: cosmone/includes/cosmone-shortcodes.php:158
+msgid "Progress Bar Name"
+msgstr ""
+
+#: cosmone/includes/cosmone-shortcodes.php:159
+msgid "Percent"
+msgstr ""
+
+#: cosmone/includes/cosmone-shortcodes.php:175
+msgid "Tab Title"
+msgstr ""
+
+#: cosmone/includes/cosmone-shortcodes.php:176
+msgid "Tab Icon (Font Awesome Icon name)"
+msgstr ""
+
+#: cosmone/includes/cosmone-shortcodes.php:181
+#: cosmone/includes/cosmone-shortcodes.php:1008
+#: cosmone/includes/cosmone-shortcodes.php:1009
+msgid "Name"
+msgstr ""
+
+#: cosmone/includes/cosmone-shortcodes.php:182
+msgid "Avatar"
+msgstr ""
+
+#: cosmone/includes/cosmone-shortcodes.php:183
+msgid "Byline"
+msgstr ""
+
+#: cosmone/includes/cosmone-shortcodes.php:203
+msgid "Category Name"
+msgstr ""
+
+#: cosmone/includes/cosmone-shortcodes.php:204
+#: cosmone/options/includes/ot-functions-docs-page.php:58
+msgid "Post Type"
+msgstr ""
+
+#: cosmone/includes/cosmone-shortcodes.php:357
+#: cosmone/includes/cosmone-shortcodes.php:392
+msgid "All"
+msgstr ""
+
+#: cosmone/includes/cosmone-shortcodes.php:1012
+#: cosmone/includes/cosmone-shortcodes.php:1013
+msgid "Email"
+msgstr ""
+
+#: cosmone/includes/cosmone-shortcodes.php:1016
+#: cosmone/includes/cosmone-shortcodes.php:1017
+msgid "Message"
+msgstr ""
+
+#: cosmone/includes/cosmone-shortcodes.php:1060
+#: cosmone/includes/cosmone-shortcodes.php:1074
+#, php-format
+msgid " %s%% Complete"
+msgstr ""
+
+#: cosmone/includes/cosmone-shortcodes.php:1158
+msgid "Load"
+msgstr ""
+
+#: cosmone/includes/meta-boxes.php:22
+msgid "Page Meta Box"
+msgstr ""
+
+#: cosmone/includes/meta-boxes.php:29
+#: cosmone/includes/meta-boxes.php:82
+#: cosmone/includes/theme-options.php:30
+msgid "General Options"
+msgstr ""
+
+#: cosmone/includes/meta-boxes.php:35
+msgid "Sidebar"
+msgstr ""
+
+#: cosmone/includes/meta-boxes.php:49
+msgid "left"
+msgstr ""
+
+#: cosmone/includes/meta-boxes.php:55
+msgid "no"
+msgstr ""
+
+#: cosmone/includes/meta-boxes.php:63
+#: cosmone/includes/meta-boxes.php:119
+#: cosmone/options/includes/ot-functions-docs-page.php:110
+msgid "Background"
+msgstr ""
+
+#: cosmone/includes/meta-boxes.php:74
+msgid "Section Options"
+msgstr ""
+
+#: cosmone/includes/meta-boxes.php:90
+msgid "Content Full Width On/Off"
+msgstr ""
+
+#: cosmone/includes/meta-boxes.php:97
+msgid "Assign to nav menu"
+msgstr ""
+
+#: cosmone/includes/meta-boxes.php:104
+msgid "Show/hide section title"
+msgstr ""
+
+#: cosmone/includes/meta-boxes.php:111
+msgid "Custom section title (default post title)"
+msgstr ""
+
+#: cosmone/includes/meta-boxes.php:126
+msgid "Padding Top"
+msgstr ""
+
+#: cosmone/includes/meta-boxes.php:140
+msgid "Padding Bottom"
+msgstr ""
+
+#: cosmone/includes/meta-boxes.php:154
+msgid "Section Css Class"
+msgstr ""
+
+#: cosmone/includes/meta-boxes.php:162
+msgid "Short description"
+msgstr ""
+
+#: cosmone/includes/meta-boxes.php:176
+msgid "Portfolio Meta Box"
+msgstr ""
+
+#: cosmone/includes/meta-boxes.php:183
+#: cosmone/includes/meta-boxes.php:189
+#: cosmone/options/includes/ot-functions-docs-page.php:156
+msgid "Gallery"
+msgstr ""
+
+#: cosmone/includes/postType-portfolio.php:17
+msgid "Portfolio"
+msgstr ""
+
+#: cosmone/includes/postType-portfolio.php:19
+msgid "Edit Portfolio"
+msgstr ""
+
+#: cosmone/includes/postType-portfolio.php:20
+msgid "New Portfolio"
+msgstr ""
+
+#: cosmone/includes/postType-portfolio.php:23
+msgid "Search Portfolio"
+msgstr ""
+
+#: cosmone/includes/postType-portfolio.php:24
+#: cosmone/includes/postType-section.php:24
+msgid "Nothing found"
+msgstr ""
+
+#: cosmone/includes/postType-portfolio.php:25
+#: cosmone/includes/postType-section.php:25
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: cosmone/includes/postType-portfolio.php:50
+#: cosmone/includes/postType-portfolio.php:51
+#: cosmone/includes/postType-portfolio.php:61
+msgid "Portfolio Categories"
+msgstr ""
+
+#: cosmone/includes/postType-section.php:17
+msgid "Section"
+msgstr ""
+
+#: cosmone/includes/postType-section.php:19
+msgid "Edit Section"
+msgstr ""
+
+#: cosmone/includes/postType-section.php:20
+msgid "New Section"
+msgstr ""
+
+#: cosmone/includes/postType-section.php:23
+msgid "Search Section"
+msgstr ""
+
+#: cosmone/includes/shortcode-media-button.php:20
+#: cosmone/includes/theme-functions.php:731
+msgid "Cosmone Shortcodes"
+msgstr ""
+
+#: cosmone/includes/shortcode-media-button.php:36
+msgid "MageeWP Shortcodes Generator"
+msgstr ""
+
+#: cosmone/includes/shortcode-media-button.php:50
+msgid "All shortcodes"
+msgstr ""
+
+#: cosmone/includes/shortcode-media-button.php:57
+msgid "Preview shortcode"
+msgstr ""
+
+#: cosmone/includes/shortcode-media-button.php:58
+msgid "Insert shortcode"
+msgstr ""
+
+#: cosmone/includes/theme-functions.php:44
+msgid "Please enter your name."
+msgstr ""
+
+#: cosmone/includes/theme-functions.php:51
+msgid "Please enter your email address."
+msgstr ""
+
+#: cosmone/includes/theme-functions.php:54
+msgid "You entered an invalid email address."
+msgstr ""
+
+#: cosmone/includes/theme-functions.php:61
+msgid "Please enter a message."
+msgstr ""
+
+#: cosmone/includes/theme-functions.php:87
+msgid "Your message has been successfully sent!"
+msgstr ""
+
+#: cosmone/includes/theme-functions.php:284
+msgid "no value"
+msgstr ""
+
+#: cosmone/includes/theme-functions.php:826
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#: cosmone/includes/theme-functions.php:827
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: cosmone/includes/theme-functions.php:827
+msgid "(Edit)"
+msgstr ""
+
+#: cosmone/includes/theme-functions.php:830
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: cosmone/includes/theme-functions.php:858
+#, php-format
+msgid " Page %s "
+msgstr ""
+
+#: cosmone/includes/theme-functions.php:922
+msgid "Search for:"
+msgstr ""
+
+#: cosmone/includes/theme-options.php:34
+msgid "Home Page"
+msgstr ""
+
+#: cosmone/includes/theme-options.php:39
+msgid "Header"
+msgstr ""
+
+#: cosmone/includes/theme-options.php:43
+msgid "Footer"
+msgstr ""
+
+#: cosmone/includes/theme-options.php:47
+msgid "404 Page"
+msgstr ""
+
+#: cosmone/includes/theme-options.php:53
+msgid "Theme Scheme"
+msgstr ""
+
+#: cosmone/includes/theme-options.php:68
+msgid "Succinite"
+msgstr ""
+
+#: cosmone/includes/theme-options.php:74
+msgid "SteelBlue"
+msgstr ""
+
+#: cosmone/includes/theme-options.php:79
+msgid "YellowGreen"
+msgstr ""
+
+#: cosmone/includes/theme-options.php:86
+msgid "PeachBlossom"
+msgstr ""
+
+#: cosmone/includes/theme-options.php:94
+msgid "Global Theme Color"
+msgstr ""
+
+#: cosmone/includes/theme-options.php:110
+msgid "Upload Logo"
+msgstr ""
+
+#: cosmone/includes/theme-options.php:125
+msgid "Upload Favicon"
+msgstr ""
+
+#: cosmone/includes/theme-options.php:126
+msgid ""
+"An icon associated with a URL that is variously displayed, as in a browser's "
+"address bar or next to the site name in a bookmark list. Learn more about <a "
+"href=\""
+msgstr ""
+
+#: cosmone/includes/theme-options.php:140
+msgid "Post Content Typography"
+msgstr ""
+
+#: cosmone/includes/theme-options.php:155
+msgid "Custom CSS"
+msgstr ""
+
+#: cosmone/includes/theme-options.php:173
+msgid "One Page Home On/Off"
+msgstr ""
+
+#: cosmone/includes/theme-options.php:181
+msgid "Section Title Typography"
+msgstr ""
+
+#: cosmone/includes/theme-options.php:195
+msgid "Section Description Typography"
+msgstr ""
+
+#: cosmone/includes/theme-options.php:209
+msgid "Section Content Typography"
+msgstr ""
+
+#: cosmone/includes/theme-options.php:226
+msgid "Header Background"
+msgstr ""
+
+#: cosmone/includes/theme-options.php:240
+msgid "Tagline Typography"
+msgstr ""
+
+#: cosmone/includes/theme-options.php:257
+msgid "Footer Background"
+msgstr ""
+
+#: cosmone/includes/theme-options.php:270
+msgid "Footer SNS Icon"
+msgstr ""
+
+#: cosmone/includes/theme-options.php:293
+msgid "SNS"
+msgstr ""
+
+#: cosmone/includes/theme-options.php:306
+msgid "-- Choose One --"
+msgstr ""
+
+#: cosmone/includes/theme-options.php:311
+msgid "facebook"
+msgstr ""
+
+#: cosmone/includes/theme-options.php:316
+msgid "twitter"
+msgstr ""
+
+#: cosmone/includes/theme-options.php:321
+msgid "linkedin"
+msgstr ""
+
+#: cosmone/includes/theme-options.php:327
+msgid "pinterest"
+msgstr ""
+
+#: cosmone/includes/theme-options.php:333
+msgid "google plus"
+msgstr ""
+
+#: cosmone/includes/theme-options.php:339
+msgid "email"
+msgstr ""
+
+#: cosmone/includes/theme-options.php:346
+msgid "SNS Link"
+msgstr ""
+
+#: cosmone/includes/theme-options.php:362
+msgid "Copyright"
+msgstr ""
+
+#: cosmone/includes/theme-options.php:376
+msgid "Tracking Code"
+msgstr ""
+
+#: cosmone/includes/theme-setup.php:22
+msgid "Primary Menu"
+msgstr ""
+
+#: cosmone/includes/theme-setup.php:23
+msgid "Home Page Header Menu"
+msgstr ""
+
+#: cosmone/options/ot-loader.php:682
+#: cosmone/options/includes/ot-functions-admin.php:623
+#: cosmone/options/includes/ot-functions-docs-page.php:371
+#: cosmone/options/includes/ot-functions-settings-page.php:170
+msgid "Send to OptionTree"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:50
+#: cosmone/options/includes/ot-functions-admin.php:51
+#: cosmone/options/includes/ot-functions-admin.php:157
+#: cosmone/options/includes/ot-functions-admin.php:181
+#: cosmone/options/includes/ot-functions.php:264
+msgid "Theme Options"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:56
+#: cosmone/options/includes/ot-functions-admin.php:113
+#: cosmone/options/includes/ot-functions-admin.php:208
+msgid "Theme Options updated."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:57
+#: cosmone/options/includes/ot-functions-admin.php:114
+#: cosmone/options/includes/ot-functions-admin.php:209
+msgid "Theme Options reset."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:58
+#: cosmone/options/includes/ot-functions-settings-page.php:94
+#: cosmone/options/includes/ot-functions-settings-page.php:133
+msgid "Save Changes"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:96
+#: cosmone/options/includes/ot-functions-admin.php:97
+#: cosmone/options/includes/ot-functions-docs-page.php:794
+msgid "OptionTree"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:107
+#: cosmone/options/includes/ot-functions-admin.php:108
+#: cosmone/options/includes/ot-functions-admin.php:151
+#: cosmone/options/includes/ot-functions-admin.php:175
+#: cosmone/options/includes/ot-functions-docs-page.php:49
+msgid "Settings"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:115
+#: cosmone/options/includes/ot-functions-admin.php:210
+msgid "Save Settings"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:121
+msgid "Theme Options UI"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:125
+msgid "Import"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:129
+msgid "Export"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:133
+#: cosmone/options/includes/ot-functions-admin.php:163
+#: cosmone/options/includes/ot-functions-admin.php:187
+msgid "Layouts"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:139
+msgid "Theme Options UI Builder"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:145
+msgid "Settings XML"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:169
+msgid "Settings PHP File"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:193
+msgid "Layout Management"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:202
+#: cosmone/options/includes/ot-functions-admin.php:203
+msgid "Documentation"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:216
+msgid "Creating Options"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:220
+msgid "Option Types"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:224
+msgid "Function References"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:228
+#: cosmone/options/includes/ot-functions-admin.php:270
+#: cosmone/options/includes/ot-functions-settings-page.php:366
+msgid "Theme Mode"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:232
+#: cosmone/options/includes/ot-functions-admin.php:276
+msgid "Meta Boxes"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:236
+msgid "Code Examples"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:240
+msgid "Layouts Overview"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:246
+msgid "Overview of available Theme Option fields."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:252
+msgid "Option types in alphabetical order & hooks to filter them."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:258
+msgid "Function Reference:ot_get_option()"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:264
+msgid "Function Reference:get_option_tree()"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:282
+msgid "Code examples for front-end development."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:288
+msgid "What's a layout anyhow?"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:488
+msgid "The Colorpicker only allows valid hexadecimal values."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:624
+#: cosmone/options/includes/ot-functions-option-types.php:239
+#: cosmone/options/includes/ot-functions-option-types.php:2249
+msgid "Remove Media"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:625
+msgid "Are you sure you want to reset back to the defaults?"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:626
+msgid "You can't remove this! But you can edit the values."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:627
+msgid "Are you sure you want to remove this?"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:628
+msgid "Are you sure you want to activate this layout?"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:629
+msgid "Sorry, you can't have settings three levels deep."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:630
+#: cosmone/options/includes/ot-functions-option-types.php:794
+msgid "Delete Gallery"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:631
+#: cosmone/options/includes/ot-functions-option-types.php:795
+msgid "Edit Gallery"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:632
+#: cosmone/options/includes/ot-functions-option-types.php:802
+msgid "Create Gallery"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:633
+msgid "Are you sure you want to delete this Gallery?"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:634
+msgid "Today"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:635
+msgid "Now"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:636
+msgid "Close"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:685
+msgid "Option Tree"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:822
+msgid "General"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:828
+msgid "Sample Text Field Label"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:829
+msgid "Description for the sample text field."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:2046
+msgid "Settings updated."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:2050
+msgid "Settings could not be saved."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:2058
+msgid "Settings Imported."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:2062
+msgid "Settings could not be imported."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:2069
+msgid "Data Imported."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:2073
+msgid "Data could not be imported."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:2081
+msgid "Layouts Imported."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:2085
+msgid "Layouts could not be imported."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:2093
+msgid "Layouts Updated."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:2097
+msgid "Layouts could not be updated."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:2101
+msgid "Layouts have been deleted."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:2107
+msgid "Layout activated."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:2674
+msgid "Left Sidebar"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:2679
+msgid "Right Sidebar"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:2684
+msgid "Full Width (no sidebar)"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:2689
+msgid "Dual Sidebar"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:2694
+msgid "Left Dual Sidebar"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:2699
+msgid "Right Dual Sidebar"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:2729
+#: cosmone/options/includes/ot-functions-admin.php:2790
+msgid "Image"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:2751
+#: cosmone/options/includes/ot-functions-admin.php:2802
+#: cosmone/options/includes/ot-functions-docs-page.php:43
+#: cosmone/options/includes/ot-functions-docs-page.php:401
+#: cosmone/options/includes/ot-functions-docs-page.php:451
+msgid "Description"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:3285
+msgid "edit"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:3286
+#: cosmone/options/includes/ot-functions-admin.php:3354
+#: cosmone/options/includes/ot-functions-admin.php:3355
+#: cosmone/options/includes/ot-functions-admin.php:3517
+#: cosmone/options/includes/ot-functions-admin.php:3518
+#: cosmone/options/includes/ot-functions-admin.php:3583
+#: cosmone/options/includes/ot-functions-admin.php:3584
+#: cosmone/options/includes/ot-functions-admin.php:3711
+#: cosmone/options/includes/ot-functions-admin.php:3712
+msgid "Edit"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:3288
+#: cosmone/options/includes/ot-functions-admin.php:3289
+#: cosmone/options/includes/ot-functions-admin.php:3357
+#: cosmone/options/includes/ot-functions-admin.php:3358
+#: cosmone/options/includes/ot-functions-admin.php:3520
+#: cosmone/options/includes/ot-functions-admin.php:3521
+#: cosmone/options/includes/ot-functions-admin.php:3586
+#: cosmone/options/includes/ot-functions-admin.php:3587
+#: cosmone/options/includes/ot-functions-admin.php:3645
+#: cosmone/options/includes/ot-functions-admin.php:3646
+#: cosmone/options/includes/ot-functions-admin.php:3714
+#: cosmone/options/includes/ot-functions-admin.php:3715
+msgid "Delete"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:3295
+msgid ""
+"<strong>Section Title</strong>: Displayed as a menu item on the Theme "
+"Options page."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:3303
+msgid ""
+"<strong>Section ID</strong>: A unique lower case alphanumeric string, "
+"underscores allowed."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:3364
+msgid ""
+"<strong>Label</strong>: Displayed as the label of a form element on the "
+"Theme Options page."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:3372
+#: cosmone/options/includes/ot-functions-admin.php:3601
+msgid ""
+"<strong>ID</strong>: A unique lower case alphanumeric string, underscores "
+"allowed."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:3380
+msgid ""
+"<strong>Type</strong>: Choose one of the available option types from the "
+"dropdown."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:3391
+msgid ""
+"<strong>Description</strong>: Enter a detailed description for the users to "
+"read on the Theme Options page, HTML is allowed. This is also where you "
+"enter content for both the Textblock & Textblock Titled option types."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:3399
+msgid ""
+"<strong>Choices</strong>: This will only affect the following option types: "
+"Checkbox, Radio, Select & Select Image."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:3404
+msgid "Add Choice"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:3410
+msgid ""
+"<strong>Settings</strong>: This will only affect the List Item option type."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:3415
+#: cosmone/options/includes/ot-functions-settings-page.php:93
+msgid "Add Setting"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:3421
+msgid ""
+"<strong>Standard</strong>: Setting the standard value for your option only "
+"works for some option types. Read the <code>OptionTree->Documentation</code> "
+"for more information on which ones."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:3429
+msgid ""
+"<strong>Rows</strong>: Enter a numeric value for the number of rows in your "
+"textarea. This will only affect the following option types: CSS, Textarea, & "
+"Textarea Simple."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:3437
+msgid ""
+"<strong>Post Type</strong>: Add a comma separated list of post type like "
+"'post,page'. This will only affect the following option types: Custom Post "
+"Type Checkbox, & Custom Post Type Select."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:3445
+msgid ""
+"<strong>Taxonomy</strong>: Add a comma separated list of any registered "
+"taxonomy like 'category,post_tag'. This will only affect the following "
+"option types: Taxonomy Checkbox, & Taxonomy Select."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:3453
+msgid ""
+"<strong>Min, Max, & Step</strong>: Add a comma separated list of options in "
+"the following format <code>0,100,1</code> (slide from <code>0-100</code> in "
+"intervals of <code>1</code>). The three values represent the minimum, "
+"maximum, and step options and will only affect the Numeric Slider option "
+"type."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:3461
+msgid "<strong>CSS Class</strong>: Add and optional class to this option type."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:3469
+#, php-format
+msgid ""
+"<strong>Condition</strong>: Add a comma separated list (no spaces) of "
+"conditions in which the field will be visible, leave this setting empty to "
+"always show the field. In these examples, <code>value</code> is a "
+"placeholder for your condition, which can be in the form of %s."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:3477
+msgid ""
+"<strong>Operator</strong>: Choose the logical operator to compute the result "
+"of the conditions."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:3480
+#: cosmone/options/includes/ot-functions-docs-page.php:111
+#: cosmone/options/includes/ot-functions-docs-page.php:351
+msgid "and"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:3481
+msgid "or"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:3527
+#: cosmone/options/includes/ot-functions-docs-page.php:29
+msgid "Label"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:3537
+msgid "Value"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:3547
+msgid "Image Source (Radio Image only)"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:3593
+msgid ""
+"<strong>Title</strong>: Displayed as a contextual help menu item on the "
+"Theme Options page."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:3609
+msgid ""
+"<strong>Content</strong>: Enter the HTML content about this contextual help "
+"item displayed on the Theme Option page for end users to read."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:3640
+msgid "Layout"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:3642
+#: cosmone/options/includes/ot-functions-admin.php:3643
+msgid "Activate"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-admin.php:3882
+msgid "New Layout"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:30
+msgid ""
+"The Label field should be a short but descriptive block of text 100 "
+"characters or less with no HTML."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:32
+msgid "ID"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:33
+msgid ""
+"The ID field is a unique alphanumeric key used to differentiate each theme "
+"option (underscores are acceptable). Also, the plugin will change all text "
+"you write in this field to lowercase and replace spaces and special "
+"characters with an underscore automatically."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:35
+msgid "Type"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:36
+msgid ""
+"You are required to choose one of the supported option types when creating a "
+"new option. Here is a list of the available option types. For more "
+"information about each type click the <code>Option Types</code> tab to the "
+"left."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:44
+msgid ""
+"Enter a detailed description for the users to read on the Theme Options "
+"page, HTML is allowed. This is also where you enter content for both the "
+"Textblock & Textblock Titled option types."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:46
+msgid "Choices"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:47
+msgid ""
+"Click the \"Add Choice\" button to add an item to the choices array. This "
+"will only affect the following option types: Checkbox, Radio, Select & "
+"Select Image."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:50
+msgid ""
+"Click the \"Add Setting\" button found inside a newly created setting to add "
+"an item to the settings array. This will only affect the List Item type."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:52
+msgid "Standard"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:53
+msgid ""
+"Setting the standard value for your option only works for some option types. "
+"Those types are one that have a single string value saved to them and not an "
+"array of values."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:55
+msgid "Rows"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:56
+msgid ""
+"Enter a numeric value for the number of rows in your textarea. This will "
+"only affect the following option types: CSS, Textarea, & Textarea Simple."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:59
+msgid ""
+"Add a comma separated list of post type like <code>post,page</code>. This "
+"will only affect the following option types: Custom Post Type Checkbox, & "
+"Custom Post Type Select. Below are the default post types available with "
+"WordPress and that are also compatible with OptionTree. You can also add "
+"your own custom <code>post_type</code>. At this time <code>any</code> does "
+"not seem to return results properly and is something I plan on looking into."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:67
+msgid "Taxonomy"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:68
+msgid ""
+"Add a comma separated list of any registered taxonomy like <code>category,"
+"post_tag</code>. This will only affect the following option types: Taxonomy "
+"Checkbox, & Taxonomy Select."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:70
+msgid "Min, Max, & Step"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:71
+msgid ""
+"Add a comma separated list of options in the following format <code>0,100,1</"
+"code> (slide from <code>0-100</code> in intervals of <code>1</code>). The "
+"three values represent the minimum, maximum, and step options and will only "
+"affect the Numeric Slider option type."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:73
+msgid "CSS Class"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:74
+msgid "Add and optional class to any option type."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:76
+msgid "Condition"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:77
+#, php-format
+msgid ""
+"Add a comma separated list (no spaces) of conditions in which the field will "
+"be visible, leave this setting empty to always show the field. In these "
+"examples, %s is a placeholder for your condition, which can be in the form "
+"of %s."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:79
+msgid "Operator"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:80
+#, php-format
+msgid ""
+"Choose the logical operator to compute the result of the conditions. Your "
+"options are %s and %s."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:111
+#, php-format
+msgid ""
+"The Background option type is for adding background styles to your theme "
+"either dynamically via the CSS option type below or manually with %s. The "
+"Background option type has filters that allow you to remove fields or change "
+"the defaults. For example, you can filter %s to remove unwanted fields from "
+"all Background options or an individual one. You can also filter %s. These "
+"filters allow you to fine tune the select lists for your specific needs."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:113
+msgid "Category Checkbox"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:114
+msgid ""
+"The Category Checkbox option type displays a list of category IDs. It allows "
+"the user to check multiple category IDs and will return that value as an "
+"array for use in a custom function or loop."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:116
+msgid "Category Select"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:117
+msgid ""
+"The Category Select option type displays a list of category IDs. It allows "
+"the user to select only one category ID and will return that value for use "
+"in a custom function or loop."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:119
+msgid "Checkbox"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:120
+msgid ""
+"The Checkbox option type displays a group of choices. It allows the user to "
+"check multiple choices and will return that value as an array for use in a "
+"custom function or loop."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:122
+msgid "Colorpicker"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:123
+msgid ""
+"The Colorpicker option type saves a hexadecimal color code for use in CSS. "
+"Use it to modify the color of something in your theme."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:125
+msgid "CSS"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:126
+#, php-format
+msgid ""
+"The CSS option type is a textarea that when used properly can add dynamic "
+"CSS to your theme from within OptionTree. Unfortunately, due server "
+"limitations you will need to create a file named %s at the root level of "
+"your theme and change permissions using %s so the server can write to the "
+"file. I have had the most success setting this single file to %s but feel "
+"free to play around with permissions until everything is working. A good "
+"starting point is %s. When the server can save to the file, CSS will "
+"automatically be updated when you save your Theme Options."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:128
+#, php-format
+msgid ""
+"This example assumes you have an option with the ID of %1$s. Which means "
+"this option will automatically insert the value of %1$s into the %2$s when "
+"the Theme Options are saved."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:130
+msgid "Input"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:136
+msgid "Output"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:144
+msgid "Custom Post Type Checkbox"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:145
+#, php-format
+msgid ""
+"The Custom Post Type Select option type displays a list of IDs from any "
+"available WordPress post type or custom post type. It allows the user to "
+"check multiple post IDs for use in a custom function or loop. Requires at "
+"least one valid %1$s in the %1$s field."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:147
+msgid "Custom Post Type Select"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:148
+#, php-format
+msgid ""
+"The Custom Post Type Select option type displays a list of IDs from any "
+"available WordPress post type or custom post type. It will return a single "
+"post ID for use in a custom function or loop. Requires at least one valid "
+"%1$s in the %1$s field."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:150
+msgid "Date Picker"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:151
+msgid ""
+"The Date Picker option type is tied to a standard form input field which "
+"displays a calendar pop-up that allow the user to pick any date when focus "
+"is given to the input field. The returned value is a date formatted string."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:153
+msgid "Date Time Picker"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:154
+msgid ""
+"The Date Time Picker option type is tied to a standard form input field "
+"which displays a calendar pop-up that allow the user to pick any date and "
+"time when focus is given to the input field. The returned value is a date "
+"and time formatted string."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:157
+msgid ""
+"The Gallery option type saves a comma separated list of image attachment "
+"IDs. You will need to create a front-end function to display the images in "
+"your theme."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:159
+msgid "List Item"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:160
+msgid ""
+"The List Item option type replaced the Slider option type and allows for a "
+"great deal of customization. You can add settings to the List Item and those "
+"settings will be displayed to the user when they add a new List Item. "
+"Typical use is for creating sliding content or blocks of code for custom "
+"layouts."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:162
+msgid "Measurement"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:163
+#, php-format
+msgid ""
+"The Measurement option type is a mix of input and select fields. The text "
+"input excepts a value and the select lets you choose the unit of measurement "
+"to add to that value. Currently the default units are %s, %s, %s, and %s. "
+"However, you can change them with the %s filter."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:165
+#, php-format
+msgid ""
+"Example filter to add new units to the Measurement option type. Added to %s."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:178
+msgid ""
+"Example filter to completely change the units in the Measurement option "
+"type. Added to <code>functions.php</code>."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:193
+msgid "Numeric Slider"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:194
+msgid ""
+"The Numeric Slider option type displays a jQuery UI slider. It will return a "
+"single numerical value for use in a custom function or loop."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:196
+msgid "On/Off"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:197
+#, php-format
+msgid ""
+"The On/Off option type displays a simple switch that can be used to turn "
+"things on or off. The saved return value is either %s or %s."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:199
+msgid "Page Checkbox"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:200
+msgid ""
+"The Page Checkbox option type displays a list of page IDs. It allows the "
+"user to check multiple page IDs for use in a custom function or loop."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:202
+msgid "Page Select"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:203
+msgid ""
+"The Page Select option type displays a list of page IDs. It will return a "
+"single page ID for use in a custom function or loop."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:205
+msgid "Post Checkbox"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:206
+msgid ""
+"The Post Checkbox option type displays a list of post IDs. It allows the "
+"user to check multiple post IDs for use in a custom function or loop."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:208
+msgid "Post Select"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:209
+msgid ""
+"The Post Select option type displays a list of post IDs. It will return a "
+"single post ID for use in a custom function or loop."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:211
+msgid "Radio"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:212
+msgid ""
+"The Radio option type displays a group of choices. It allows the user to "
+"choose one and will return that value as a string for use in a custom "
+"function or loop."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:214
+msgid "Radio Image"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:215
+#, php-format
+msgid ""
+"the Radio Images option type is primarily used for layouts. However, you can "
+"filter the image list using %s. As well, you can add your own custom images "
+"using the choices array."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:217
+msgid ""
+"This example executes the <code>ot_radio_images</code> filter on layout "
+"images attached to the <code>my_radio_images</code> field. Added to "
+"<code>functions.php</code>."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:241
+msgid "Select"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:242
+msgid ""
+"The Select option type is used to list anything you want that would be "
+"chosen from a select list."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:244
+msgid "Sidebar Select"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:245
+#, php-format
+msgid ""
+"This option type makes it possible for users to select a WordPress "
+"registered sidebar to use on a specific area. By using the two provided "
+"filters, %s, and %s we can be selective about which sidebars are available "
+"on a specific content area."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:246
+#, php-format
+msgid ""
+"For example, if we create a WordPress theme that provides the ability to "
+"change the Blog Sidebar and we don't want to have the footer sidebars "
+"available on this area, we can unset those sidebars either manually or by "
+"using a regular expression if we have a common name like %s."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:248
+msgid "Slider"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:249
+msgid ""
+"The Slider option type is technically deprecated. Use the List Item option "
+"type instead, as it's infinitely more customizable. Typical use is for "
+"creating sliding image content."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:251
+msgid "Tab"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:252
+msgid ""
+"The Tab option type will break a section or metabox into tabbed content."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:254
+msgid "Tag Checkbox"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:255
+msgid ""
+"The Tag Checkbox option type displays a list of tag IDs. It allows the user "
+"to check multiple tag IDs and will return that value as an array for use in "
+"a custom function or loop."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:257
+msgid "Tag Select"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:258
+msgid ""
+"The Tag Select option type displays a list of tag IDs. It allows the user to "
+"select only one tag ID and will return that value for use in a custom "
+"function or loop."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:260
+msgid "Taxonomy Checkbox"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:261
+msgid ""
+"The Taxonomy Checkbox option type displays a list of taxonomy IDs. It allows "
+"the user to check multiple taxonomy IDs and will return that value as an "
+"array for use in a custom function or loop."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:263
+msgid "Taxonomy Select"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:264
+msgid ""
+"The Taxonomy Select option type displays a list of taxonomy IDs. It allows "
+"the user to select only one taxonomy ID and will return that value for use "
+"in a custom function or loop."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:266
+msgid "Text"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:267
+msgid ""
+"The Text option type is used to save string values. For example, any "
+"optional or required text that is of reasonably short character length."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:269
+msgid "Textarea"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:270
+#, php-format
+msgid ""
+"The Textarea option type is a large string value used for custom code or "
+"text in the theme and has a WYSIWYG editor that can be filtered to change "
+"the how it is displayed. For example, you can filter %s, %s, %s, and %s."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:272
+msgid ""
+"Example filters to alter the Textarea option type. Added to <code>functions."
+"php</code>."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:274
+msgid ""
+"This example keeps WordPress from executing the <code>wpautop</code> filter "
+"on the line breaks. The default is <code>true</code> which means it wraps "
+"line breaks with an HTML <code>p</code> tag."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:287
+msgid ""
+"This example keeps WordPress from executing the <code>media_buttons</code> "
+"filter on the textarea WYSIWYG. The default is <code>true</code> which means "
+"show the buttons."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:300
+msgid ""
+"This example keeps WordPress from executing the <code>tinymce</code> filter "
+"on the textarea WYSIWYG. The default is <code>true</code> which means show "
+"the tinymce."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:313
+msgid ""
+"This example alters the <code>quicktags</code> filter on the textarea "
+"WYSIWYG. The default is <code>array( 'buttons' => 'strong,em,link,block,del,"
+"ins,img,ul,ol,li,code,spell,close' )</code> which means show those "
+"quicktags. It also means you can filter in your own custom quicktags."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:328
+msgid "Textarea Simple"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:329
+msgid ""
+"The Textarea Simple option type is a large string value used for custom code "
+"or text in the theme. The Textarea Simple does not have a WYSIWYG editor."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:331
+#, php-format
+msgid ""
+"This example tells WordPress to execute the %s filter on the line breaks. "
+"The default is %s which means it does not wraps line breaks with an HTML %s "
+"tag. Added to %s."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:344
+msgid "Textblock"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:345
+msgid ""
+"The Textblock option type is used only on the Theme Option page. It will "
+"allow you to create & display HTML, but has no title above the text block. "
+"You can then use the Textblock to add a more detailed set of instruction on "
+"how the options are used in your theme. You would never use this in your "
+"themes template files as it does not save a value."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:347
+msgid "Textblock Titled"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:348
+msgid ""
+"The Textblock Titled option type is used only on the Theme Option page. It "
+"will allow you to create & display HTML, and has a title above the text "
+"block. You can then use the Textblock Titled to add a more detailed set of "
+"instruction on how the options are used in your theme. You would never use "
+"this in your themes template files as it does not save a value."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:350
+msgid "Typography"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:351
+#, php-format
+msgid ""
+"The Typography option type is for adding typography styles to your theme "
+"either dynamically via the CSS option type above or manually with %s. The "
+"Typography option type has filters that allow you to remove fields or change "
+"the defaults. For example, you can filter %s to remove unwanted fields from "
+"all Background options or an individual one. You can also filter %s. These "
+"filters allow you to fine tune the select lists for your specific needs."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:353
+msgid ""
+"This example would filter <code>ot_recognized_font_families</code> to build "
+"your own font stack. Added to <code>functions.php</code>."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:370
+msgid "Upload"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:371
+#, php-format
+msgid ""
+"The Upload option type is used to upload any WordPress supported media. "
+"After uploading, users are required to press the \"%s\" button in order to "
+"populate the input with the URI of that media. There is one caveat of this "
+"feature. If you import the theme options and have uploaded media on one site "
+"the old URI will not reflect the URI of your new site. You will have to re-"
+"upload or %s any media to your new server and change the URIs if necessary."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:403
+msgid ""
+"This function returns a value from the \"option_tree\" array of saved values "
+"or the default value supplied. The returned value would be mixed. Meaning it "
+"could be a string, integer, boolean, or array."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:405
+#: cosmone/options/includes/ot-functions-docs-page.php:455
+msgid "Usage"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:409
+#: cosmone/options/includes/ot-functions-docs-page.php:459
+msgid "Parameters"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:413
+#: cosmone/options/includes/ot-functions-docs-page.php:417
+#: cosmone/options/includes/ot-functions-docs-page.php:463
+msgid "string"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:413
+#: cosmone/options/includes/ot-functions-docs-page.php:463
+msgid "required"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:413
+msgid "Enter the options unique identifier."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:413
+#: cosmone/options/includes/ot-functions-docs-page.php:463
+msgid "Default:"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:413
+#: cosmone/options/includes/ot-functions-docs-page.php:417
+#: cosmone/options/includes/ot-functions-docs-page.php:463
+#: cosmone/options/includes/ot-functions-docs-page.php:467
+msgid "None"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:417
+#: cosmone/options/includes/ot-functions-docs-page.php:467
+#: cosmone/options/includes/ot-functions-docs-page.php:471
+#: cosmone/options/includes/ot-functions-docs-page.php:475
+#: cosmone/options/includes/ot-functions-docs-page.php:479
+msgid "optional"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:417
+msgid ""
+"Enter a default return value. This is just incase the request returns null."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:417
+#: cosmone/options/includes/ot-functions-docs-page.php:467
+#: cosmone/options/includes/ot-functions-docs-page.php:471
+#: cosmone/options/includes/ot-functions-docs-page.php:475
+#: cosmone/options/includes/ot-functions-docs-page.php:479
+msgid "Default"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:447
+msgid ""
+"This function has been deprecated. That means it has been replaced by a new "
+"function or is no longer supported, and may be removed from future versions. "
+"All code that uses this function should be converted to use its replacement."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:449
+msgid "Use"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:449
+msgid "instead"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:453
+msgid ""
+"This function returns, or echos if asked, a value from the \"option_tree\" "
+"array of saved values."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:463
+msgid "Enter a unique Option Key to get a returned value or array."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:467
+msgid "array"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:467
+msgid "Used to cut down on database queries in template files."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:471
+#: cosmone/options/includes/ot-functions-docs-page.php:475
+msgid "boolean"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:471
+msgid "Echo the output."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:475
+msgid "Used to indicate the $item_id is an array of values."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:479
+msgid "integer"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:479
+msgid ""
+"Numeric offset key for the $item_id array, -1 will return all values (an "
+"array starts at 0)."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:507
+msgid ""
+"If you're using the plugin version of OptionTree it is highly recommended to "
+"include a <code>function_exists</code> check in your code, as described in "
+"the examples below. If you've integrated OptionTree directly into your "
+"themes root directory, you will <strong>not</strong> need to wrap your code "
+"with <code>function_exists</code>, as you're guaranteed to have the "
+"<code>ot_get_option()</code> function available."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:509
+msgid "String Examples"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:511
+msgid "Returns the value of <code>test_input</code>."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:517
+msgid ""
+"Returns the value of <code>test_input</code>, but also has a default value "
+"if it returns empty."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:523
+msgid "Array Examples"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:525
+msgid ""
+"Assigns the value of <code>navigation_ids</code> to the variable <code>$ids</"
+"code>. It then echos an unordered list of links (navigation) using "
+"<code>wp_list_pages()</code>."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:545
+msgid ""
+"The next two examples demonstrate how to use the <strong>Measurement</"
+"strong> option type. The Measurement option type is an array with two key/"
+"value pairs. The first is the value of measurement and the second is the "
+"unit of measurement."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:571
+msgid "This example displays a very basic slider loop."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:616
+msgid "It's Super Simple"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:618
+msgid ""
+"Layouts make your theme awesome! With theme options data that you can save/"
+"import/export you can package themes with different color variations, or "
+"make it easy to do A/B testing on text and so much more. Basically, you save "
+"a snapshot of your data as a layout."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:620
+msgid ""
+"Once you have created all your different layouts, or theme variations, you "
+"can save them to a separate text file for repackaging with your theme. "
+"Alternatively, you could just make different variations for yourself and "
+"change your theme with the click of a button, all without deleting your "
+"previous options data."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:622
+msgid ""
+" Adding a layout is ridiculously easy, follow these steps and you'll be on "
+"your way to having a WordPress super theme."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:624
+msgid "For Developers"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:626
+#: cosmone/options/includes/ot-functions-docs-page.php:655
+msgid "Creating a Layout"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:628
+#: cosmone/options/includes/ot-functions-docs-page.php:635
+#: cosmone/options/includes/ot-functions-docs-page.php:641
+msgid "Go to the <code>OptionTre->Settings->Layouts</code> tab."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:629
+msgid ""
+"Enter a name for your layout in the text field and hit \"Save Layouts\", "
+"you've created your first layout."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:630
+#: cosmone/options/includes/ot-functions-docs-page.php:659
+msgid "Adding a new layout is as easy as repeating the steps above."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:633
+#: cosmone/options/includes/ot-functions-docs-page.php:662
+msgid "Activating a Layout"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:636
+msgid "Click on the activate layout button in the actions list."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:639
+#: cosmone/options/includes/ot-functions-docs-page.php:668
+msgid "Deleting a Layout"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:642
+msgid "Click on the delete layout button in the actions list."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:645
+#: cosmone/options/includes/ot-functions-docs-page.php:673
+msgid "Edit Layout Data"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:647
+#: cosmone/options/includes/ot-functions-docs-page.php:657
+#: cosmone/options/includes/ot-functions-docs-page.php:664
+msgid "Go to the <code>Appearance->Theme Options</code> page."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:648
+#: cosmone/options/includes/ot-functions-docs-page.php:676
+msgid ""
+"Modify and save your theme options and the layout will be updated "
+"automatically."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:649
+#: cosmone/options/includes/ot-functions-docs-page.php:677
+msgid ""
+"Saving theme options data will update the currently active layout, so before "
+"you start saving make sure you want to modify the current layout."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:650
+msgid ""
+"If you want to edit a new layout, first create it then save your theme "
+"options."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:653
+msgid "End-Users Mode"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:658
+msgid ""
+"Enter a name for your layout in the text field and hit \"New Layout\", "
+"you've created your first layout."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:665
+msgid ""
+"Choose a layout from the select list and click the \"Activate Layout\" "
+"button."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:670
+msgid "End-Users mode does not allow deleting layouts."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:675
+msgid "Go to the <code>Appearance->Theme Options</code> tab."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:706
+#: cosmone/options/includes/ot-functions-docs-page.php:788
+msgid "How-to-guide"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:708
+msgid ""
+"There are a few simple steps you need to take in order to use OptionTree's "
+"built in Meta Box API. In the code below I'll show you a basic demo of how "
+"to create your very own custom meta box using any number of the option types "
+"you have at your disposal. If you would like to see some demo code, there is "
+"a directory named <code>theme-mode</code> inside the <code>assets</code> "
+"directory that contains a file named <code>demo-meta-boxes.php</code> you "
+"can reference."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:710
+msgid ""
+"It's important to note that Meta Boxes do not support WYSIWYG editors at "
+"this time and if you set one of your options to Textarea it will "
+"automatically revert to a Textarea Simple until a valid solution is found. "
+"WordPress released this statement regarding the wp_editor() function:"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:712
+msgid ""
+"Once instantiated, the WYSIWYG editor cannot be moved around in the DOM. "
+"What this means in practical terms, is that you cannot put it in meta-boxes "
+"that can be dragged and placed elsewhere on the page."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:714
+msgid "Create and include your custom meta boxes file."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:716
+msgid ""
+"Create a file and name it anything you want, maybe <code>meta-boxes.php</"
+"code>."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:717
+msgid ""
+"As well, you'll probably want to create a directory named <code>includes</"
+"code> to put your <code>meta-boxes.php</code> into which will help keep you "
+"file structure nice and tidy."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:718
+#: cosmone/options/includes/ot-functions-docs-page.php:818
+msgid "Add the following code to your <code>functions.php</code>."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:728
+msgid ""
+"Add a variation of the following code to your <code>meta-boxes.php</code>. "
+"You'll obviously need to fill it in with all your custom array values. It's "
+"important to note here that we use the <code>admin_init</code> filter "
+"because if you were to call the <code>ot_register_meta_box</code> function "
+"before OptionTree was loaded the sky would fall on your head."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:790
+msgid ""
+"There are a few simple steps you need to take in order to use OptionTree as "
+"a theme included module. In the code below I'll show you a basic demo of how "
+"to include the entire plugin as a module, which will allow you to have the "
+"most up-to-date version of OptionTree without ever needing to hack the core "
+"of the plugin. If you would like to see some demo code, there is a directory "
+"named <code>theme-mode</code> inside the <code>assets</code> directory that "
+"contains a file named <code>demo-theme-options.php</code> you can reference."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:792
+msgid "Step 1: Include the plugin & turn on theme mode."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:794
+#, php-format
+msgid "Download the latest version of %s and unarchive the %s directory."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:795
+#, php-format
+msgid ""
+"Put the %s directory in the root of your theme. For example, the server path "
+"would be %s."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:796
+#, php-format
+msgid "Add the following code to the beginning of your %s."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:810
+#, php-format
+msgid ""
+"For a list of all the OptionTree UI display filters refer to the %s file "
+"found in the %s directory of this plugin. This file is the starting point "
+"for developing themes with Theme Mode."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:812
+msgid ""
+"You now have OptionTree built into your theme and anytime an update is "
+"available replace the old version with the new one."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:814
+msgid "Step 2: Create Theme Options without using the UI Builder."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:816
+msgid ""
+"Create a file and name it anything you want, maybe <code>theme-options.php</"
+"code>, or use the built in file export to create it for you. Remember, you "
+"should always check the file for errors before including it in your theme."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:817
+msgid ""
+"As well, you'll probably want to create a directory named <code>includes</"
+"code> to put your <code>theme-options.php</code> into which will help keep "
+"you file structure nice and tidy."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:828
+msgid ""
+"Add a variation of the following code to your <code>theme-options.php</"
+"code>. You'll obviously need to fill it in with all your custom array values "
+"for contextual help (optional), sections (required), and settings (required)."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-docs-page.php:831
+msgid ""
+"The code below is a boilerplate to get your started. For a full list of the "
+"available option types click the \"Option Types\" tab above. Also a quick "
+"note, you don't need to put OptionTree in theme mode to manually create "
+"options but you will want to hide the docs and settings as each time you "
+"load the admin area the settings be written over with the code below if "
+"they've changed in any way. However, this ensures your settings do not get "
+"tampered with by the end-user."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-option-types.php:46
+msgid "Sorry, this function does not exist"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-option-types.php:120
+msgid "background-repeat"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-option-types.php:138
+msgid "background-attachment"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-option-types.php:157
+msgid "background-position"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-option-types.php:210
+msgid "background-size"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-option-types.php:227
+#: cosmone/options/includes/ot-functions-option-types.php:2237
+msgid "Add Media"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-option-types.php:297
+#: cosmone/options/includes/ot-functions-option-types.php:351
+msgid "No Categories Found"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-option-types.php:346
+#: cosmone/options/includes/ot-functions-option-types.php:607
+#: cosmone/options/includes/ot-functions-option-types.php:1149
+#: cosmone/options/includes/ot-functions-option-types.php:1332
+#: cosmone/options/includes/ot-functions-option-types.php:1695
+#: cosmone/options/includes/ot-functions-option-types.php:1810
+msgid "Choose One"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-option-types.php:555
+#: cosmone/options/includes/ot-functions-option-types.php:613
+#: cosmone/options/includes/ot-functions-option-types.php:1283
+#: cosmone/options/includes/ot-functions-option-types.php:1338
+msgid "No Posts Found"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-option-types.php:874
+#: cosmone/options/includes/ot-functions-option-types.php:1227
+msgid "Add New"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-option-types.php:877
+#: cosmone/options/includes/ot-functions-option-types.php:1230
+msgid "You can re-order with drag & drop, the order will update after saving."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-option-types.php:1028
+msgid "On"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-option-types.php:1032
+msgid "Off"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-option-types.php:1100
+#: cosmone/options/includes/ot-functions-option-types.php:1155
+msgid "No Pages Found"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-option-types.php:1557
+msgid "Choose Sidebar"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-option-types.php:1562
+msgid "No Sidebars"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-option-types.php:1646
+#: cosmone/options/includes/ot-functions-option-types.php:1700
+msgid "No Tags Found"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-option-types.php:1758
+#: cosmone/options/includes/ot-functions-option-types.php:1815
+msgid "No Taxonomies Found"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-settings-page.php:35
+msgid "Warning!"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-settings-page.php:36
+#, php-format
+msgid ""
+"Go to the %s page if you want to save data, this page is for adding settings."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-settings-page.php:37
+#, php-format
+msgid ""
+"If you're unsure or not completely positive that you should be editing these "
+"settings, you should read the %s first."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-settings-page.php:38
+msgid ""
+"Things could break or be improperly displayed to the end-user if you do one "
+"of the following:"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-settings-page.php:39
+msgid ""
+"Give two sections the same ID, give two settings the same ID, give two "
+"contextual help content areas the same ID, don't create any settings, or "
+"have a section at the end of the settings list."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-settings-page.php:40
+msgid ""
+"You can create as many settings as your project requires and use them how "
+"you see fit. When you add a setting here, it will be available on the Theme "
+"Options page for use in your theme. To separate your settings into sections, "
+"click the \"Add Section\" button, fill in the input fields, and a new "
+"navigation menu item will be created."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-settings-page.php:41
+msgid ""
+"All of the settings can be sorted and rearranged to your liking with Drag & "
+"Drop. Don't worry about the order in which you create your settings, you can "
+"always reorder them."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-settings-page.php:92
+msgid "Add Section"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-settings-page.php:99
+msgid "Contextual Help"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-settings-page.php:103
+msgid "Contextual Help Sidebar"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-settings-page.php:103
+msgid ""
+"If you decide to add contextual help to the Theme Option page, enter the "
+"optional \"Sidebar\" HTML here. This would be an extremely useful place to "
+"add links to your themes documentation or support forum. Only after you've "
+"added some content below will this display to the user."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-settings-page.php:132
+msgid "Add Contextual Help Content"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-settings-page.php:168
+msgid ""
+"This import method has been deprecated. That means it has been replaced by a "
+"new method and is no longer supported, and may be removed from future "
+"versions. All themes that use this import method should be converted to use "
+"its replacement below."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-settings-page.php:170
+#, php-format
+msgid ""
+"If you were given a Theme Options XML file with a premium or free theme, "
+"locate it on your hard drive and upload that file by clicking the upload "
+"button. A popup window will appear, upload the XML file and click \"%s\". "
+"The file URL should be in the upload input, if it is click \"Import XML\"."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-settings-page.php:173
+msgid "Import XML"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-settings-page.php:189
+msgid "Add XML"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-settings-page.php:226
+msgid ""
+"To import your Settings copy and paste what appears to be a random string of "
+"alpha numeric characters into this textarea and press the \"Import Settings"
+"\" button."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-settings-page.php:229
+msgid "Import Settings"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-settings-page.php:271
+msgid ""
+"Only after you've imported the Settings should you try and update your Theme "
+"Options."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-settings-page.php:273
+msgid ""
+"To import your Theme Options copy and paste what appears to be a random "
+"string of alpha numeric characters into this textarea and press the \"Import "
+"Theme Options\" button."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-settings-page.php:276
+msgid "Import Theme Options"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-settings-page.php:318
+msgid ""
+"Only after you've imported the Settings should you try and update your "
+"Layouts."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-settings-page.php:320
+msgid ""
+"To import your Layouts copy and paste what appears to be a random string of "
+"alpha numeric characters into this textarea and press the \"Import Layouts\" "
+"button. Keep in mind that when you import your layouts, the active layout's "
+"saved data will write over the current data set for your Theme Options."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-settings-page.php:323
+msgid "Import Layouts"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-settings-page.php:366
+#, php-format
+msgid ""
+"Export your Settings into a fully functional %s file. If you want to add "
+"your own custom %s text domain to the file, enter it into the text field "
+"before exporting. For more information on how to use this file read the "
+"documentation on %s. Remember, you should always check the file for errors "
+"before including it in your theme."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-settings-page.php:375
+msgid "Export Settings File"
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-settings-page.php:405
+msgid ""
+"Export your Settings by highlighting this text and doing a copy/paste into a "
+"blank .txt file. Then save the file for importing into another install of "
+"WordPress later. Alternatively, you could just paste it into the "
+"<code>OptionTree->Settings->Import</code> <strong>Settings</strong> textarea "
+"on another web site."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-settings-page.php:441
+msgid ""
+"Export your Theme Options data by highlighting this text and doing a copy/"
+"paste into a blank .txt file. Then save the file for importing into another "
+"install of WordPress later. Alternatively, you could just paste it into the "
+"<code>OptionTree->Settings->Import</code> <strong>Theme Options</strong> "
+"textarea on another web site."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-settings-page.php:477
+msgid ""
+"Export your Layouts by highlighting this text and doing a copy/paste into a "
+"blank .txt file. Then save the file for importing into another install of "
+"WordPress later. Alternatively, you could just paste it into the "
+"<code>OptionTree->Settings->Import</code> <strong>Layouts</strong> textarea "
+"on another web site."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-settings-page.php:519
+msgid ""
+"To add a new layout enter a unique lower case alphanumeric string (dashes "
+"allowed) in the text field and click \"Save Layouts\"."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-settings-page.php:520
+msgid ""
+"As well, you can activate, remove, and drag & drop the order; all situations "
+"require you to click \"Save Layouts\" for the changes to be applied."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-settings-page.php:521
+msgid ""
+"When you create a new layout it will become active and any changes made to "
+"the Theme Options will be applied to it. If you switch back to a different "
+"layout immediately after creating a new layout that new layout will have a "
+"snapshot of the current Theme Options data attached to it."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-settings-page.php:522
+msgid ""
+"Visit <code>OptionTree->Documentation->Layouts Overview</code> to see a more "
+"in-depth description of what layouts are and how to use them."
+msgstr ""
+
+#: cosmone/options/includes/ot-functions-settings-page.php:559
+msgid "Save Layouts"
+msgstr ""
+
+#: cosmone/options/includes/ot-settings-api.php:356
+msgid "Reset Options"
+msgstr ""

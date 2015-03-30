@@ -1,0 +1,726 @@
+@color-bg1: #fff;
+@color-bg2: #f5f5f5;
+@color-txt1: #aaa;
+@color-txt2: #999;
+@color-title1: #333;
+@color-title2: #333;
+@color-link: #fa9300;
+
+body,
+button,
+input,
+select,
+textarea,
+.section-onex {
+	color: @color-txt1;
+}
+
+body {
+	background: #fff;
+}
+
+a {
+	color: @color-link;
+}
+
+a:active,
+a:hover {
+	color: @color-link;
+}
+
+mark,
+ins {
+	background: @color-link;
+}
+
+::selection {
+	background: @color-link;
+	color: #fff;
+}
+
+::-moz-selection {
+	background: @color-link;
+	color: #fff;
+}
+
+.navbar-onex {
+	background-color: @color-bg2;
+	border-color: transparent;
+	text-shadow: 0 -1px 0 rgba(0,0,0,.05);
+	box-shadow: 0 1px 3px rgba(0,0,0,.25);
+}
+
+.navbar-onex a {
+	color: @color-title2;
+}
+
+.navbar-onex .navbar-collapse {
+	border-color: transparent;
+}
+
+.navbar-onex .navbar-toggle:hover {
+	border-color: @color-link;
+}
+
+.navbar-onex .navbar-toggle .icon-bar {
+	background-color: @color-link;
+}
+
+.navbar-onex .navbar-toggle:hover .icon-bar {
+	background-color: @color-link;
+}
+
+.navbar-onex .navbar-brand a {
+	color: @color-link;
+}
+
+.navbar-onex .navbar-brand a:hover {
+	color: @color-link;
+}
+
+.navbar-onex .navbar-brand .navbar-brand-tagline {
+	color: @color-txt2;
+}
+
+.navbar-onex .navbar-nav li > a:hover,
+.navbar-onex .navbar-nav li > a:focus {
+	color: @color-link;
+	background-color: transparent;
+	border-color: @color-link;
+}
+
+.navbar-onex .navbar-nav > li.current-menu-parent  a,
+.navbar-onex .navbar-nav > li.current-post-ancestor  a,
+.navbar-onex .navbar-nav > li.current-menu-item a,
+.navbar-onex .navbar-nav > li.current_page_item a ,
+.navbar-onex .navbar-nav > .current > a,
+.navbar-onex .navbar-nav > .current > a:hover {
+	color: @color-link;
+}
+
+.section-onex .section-title h1 {
+	color: @color-title1;
+	border-bottom-color: lighten(@color-title1, 50%);
+}
+
+.section-onex h2 {
+	color: @color-title1;
+}
+
+.banner p {
+	color: #fff;
+}
+
+.services {
+	background: @color-bg1;
+	color: @color-txt1;
+}
+
+.services .section-title h1,
+.services h2 {
+	color: @color-title1;
+}
+
+.service-box i {
+	color: @color-link;
+}
+
+.service-box h3 {
+	color: #333;
+}
+
+.service-box:hover {
+	border-color: @color-link;
+}
+
+.skills p {
+	color: #333;
+}
+
+.skills .progress {
+	background-color: #e2e2e2;
+}
+
+.skills .progress-bar {
+	background-color: @color-link;
+}
+
+.skills .progress-num {
+	background-color: @color-link;
+}
+
+.skills .progress-num::after {
+	border-top-color: @color-link;
+}
+
+.about {
+	background-color: @color-bg2;
+	color: @color-txt2;
+}
+
+.about .section-title h1,
+.about h2 {
+	color: @color-title2;
+}
+
+.team-box h3 {
+	color: #333;
+}
+
+.team-box h4 {
+	color: @color-link;
+}
+
+.team-sns {
+	color: @color-bg1;
+	background-color: #ccc;
+	border: none;
+}
+
+.team-sns:hover {
+	background-color: @color-link;
+	border: none;
+}
+
+.portfolio {
+	background-color: @color-bg1;
+	color: @color-txt1;
+}
+
+.portfolio .section-title h1,
+.portfolio h2 {
+	color: @color-title1;
+}
+
+.portfolio-cat .nav-pills li a {
+	color: #333;
+}
+
+.portfolio-cat .nav-pills li a:hover {
+	color: @color-link;
+	border-color: @color-link;
+}
+
+.portfolio-cat .nav-pills li a:hover {
+	color: @color-link;
+	border-color: @color-link;
+}
+
+.portfolio-info h3:hover {
+	color: @color-link;
+	border-color: @color-link;
+}
+
+.portfolio-link:hover i {
+	color: @color-link;
+}
+
+.portfolio-list-cat .nav-pills li a {
+	color: #333;
+}
+
+.portfolio-list-cat .nav-pills li a:hover {
+	color: @color-link;
+	border-color: @color-link;
+}
+
+.detail {
+	border-color: transparent;
+	background-color: @color-bg1;
+}
+
+.detail h1,
+.detail h2 {
+	color: @color-title1;
+}
+
+.detail-close {
+	color: @color-title1;
+}
+
+.detail-close:hover {
+	color: @color-link;
+}
+
+.testimonials {
+	background: @color-bg2;
+	color: @color-txt2;
+}
+
+.testimonials .section-title h1,
+.testimonials h2 {
+	color: @color-title2;
+}
+
+.testimonials-author p {
+	color: @color-link;
+}
+
+.testimonials-content {
+	color: @color-txt1;
+	background-color: @color-bg1;
+}
+
+.testimonials-content::after {
+	border-bottom-color: #eee;
+}
+
+@media screen 
+and (min-width: 768px) {
+	.testimonials-content::after {
+		border-color: transparent;
+		border-right-color: #eee;
+	}
+}
+
+.testimonials-page i {
+	color: @color-bg1;
+}
+
+.testimonials-wrapper:hover .testimonials-page i,
+.testimonials-page i:hover,
+.testimonials-page i:active, {
+	color: @color-link;
+}
+
+.timeline {
+	background-color: @color-bg1;
+	color: @color-txt1;
+}
+
+.timeline .section-title h1,
+.timeline h2 {
+	color: @color-title1;
+}
+
+.timeline-stick {
+	background-color: #eee;
+}
+
+.timeline-page i {
+	color: @color-txt1;
+}
+
+.timeline-page i:hover,
+.timeline-page i:active, {
+	color: @color-link;
+}
+
+.project {
+	background-color: #eee;
+	color: #999;
+}
+
+.project a h3 {
+	color: #333;
+}
+
+.timeline-dot {
+	background-color: #333;
+	border-color: @color-bg1;
+}
+
+.project::after {
+	border-right-color: #eee;
+}
+
+@media screen 
+and (min-width: 992px) {
+	.timeline-left .project::after {
+		border-color: transparent;
+		border-left-color: #eee;
+	}
+}
+
+.project-box:hover .timeline-dot {
+	background-color: @color-link;
+}
+
+.project-box:hover .project {
+	background-color: #333;
+	color: #fff;
+}
+
+.project-box:hover .project::after {
+	border-right-color: #333;
+}
+
+@media screen 
+and (min-width: 992px) {
+	.timeline-left .project-box:hover .project::after {
+		border-color: transparent;
+		border-left-color: #333;
+	}
+}
+
+.project-box:hover .project a h3 {
+	color: @color-link;
+}
+
+.timeline-load {
+	color: @color-bg1;
+	background-color: @color-link;
+}
+
+.timeline-load:hover {
+	background-color: transparent;
+	border-color: @color-link;
+	color: @color-link;
+}
+
+.pricetable {
+	background-color: @color-bg2;
+	color: @color-txt2;
+}
+
+.pricetable .section-title h1,
+.pricetable h2 {
+	color: @color-title2;
+}
+
+.price-box {
+	border-color: @color-bg1;
+	background-color: @color-bg1;
+}
+
+.price-box.style2.featured {
+	/*background-color: @color-link;*/
+}
+
+.price-box h3 {
+	background-color: #444;
+	color: #fff;
+}
+
+.price-box h4 {
+	background-color: #999;
+	color: #fff;
+}
+
+.price-box.featured h3 {
+	background-color: @color-link;
+}
+
+.price-box.featured h4 {
+	background-color: #444;
+}
+
+.price-box.style2.featured h4 {
+	/*background-color: @color-bg2;*/
+}
+
+.price-box li {
+	color: #333;
+}
+
+.price-box.style2.featured li {
+	border-bottom-color: @color-txt2;
+}
+
+.price-box .icon-ok {
+	color: @color-link;
+}
+
+.price-box .icon-remove {
+	color: #666;
+}
+
+.price-box.style2 i.icon-ok {
+	border-color: @color-link;
+}
+
+.price-box.style2 i.icon-remove {
+	border-color: #666;
+}
+
+.price-box.style2.featured i {
+	background-color: @color-bg1;
+}
+
+.price-box.style2.featured .icon-remove {
+	padding: 0 1px;
+}
+
+
+/*.price-box.style2.featured .btn-normal {
+	background-color: @color-bg2;
+}
+
+.price-box.style2.featured .btn-normal:hover {
+	background-color: transparent;
+	border-color: @color-bg2;
+	color: @color-bg2;
+}*/
+
+.contact {
+	background-color: @color-bg1;
+	color: @color-txt1;
+}
+
+.contact .section-title h1 {
+	color: @color-title1;
+}
+
+.contact-form input,
+.contact-form textarea {
+	color: @color-txt1;
+	border-color: @color-txt1;
+}
+
+.contact-form input::-webkit-input-placeholder,
+.contact-form textarea::-webkit-input-placeholder {
+	color: @color-txt1;
+}
+
+.contact-form input:-moz-placeholder,
+.contact-form textarea:-moz-placeholder {
+	color: @color-txt1;
+}
+
+.contact-form input:focus,
+.contact-form textarea:focus {
+	color: @color-link;
+	border-color: @color-link;
+}
+
+.contact-form input[type="submit"] {
+	color: #fff;
+	background: @color-link;
+}
+
+.contact-form input[type="submit"]:hover {
+	color: @color-link;
+	background: transparent;
+	border-color: @color-link;
+}
+
+.site-footer {
+	background-color: #666;
+}
+
+.site-sns {
+	color: #fff;
+	background-color: @color-link;
+	border: none;
+}
+
+.site-sns:hover {
+	border: none;
+	background-color: #fff;
+	color: @color-link;
+}
+
+.site-info,
+.site-info a {
+	color: #fff;
+}
+
+.top {
+	border-color: @color-link;
+	color: @color-link;
+}
+
+.blog-onex,
+.page-onex,
+.portfolio-onex {
+	color: @color-txt1;
+}
+
+.breadcrumb-onex {
+	background-color: @color-bg2;
+	color: @color-txt2;
+}
+
+.breadcrumb-onex .active {
+	color: @color-txt2;
+}
+
+.entry-box {
+	background-color: @color-bg2;
+	color: @color-txt2;
+}
+
+.post-entry {
+	color: @color-txt1;
+}
+
+.widget-box h1 {
+	background-color: @color-bg2;
+	color: @color-title2;
+}
+
+.entry-box .entry-title,
+.entry-box .entry-title a {
+	color: @color-title2;
+}
+
+.post-entry .entry-title,
+.post-entry .entry-title a {
+	color: @color-title1;
+}
+
+.page-box ul.pagination a {
+	/*color: @color-txt2;*/
+}
+
+.page-box .pagination > li > a:hover,
+.page-box .pagination > li > span:hover {
+	border-color: @color-link;
+	color: @color-link;
+	background-color: transparent;
+}
+
+.comment-form input,
+.comment-form textarea {
+	border-color: @color-txt1;
+}
+
+.comment-form input:focus,
+.comment-form textarea:focus {
+	border-color: @color-link;
+	color: @color-link;
+}
+
+.btn-normal {
+	background: @color-link;
+}
+
+.btn-normal:hover {
+	color: @color-link;
+	border-color: @color-link;
+}
+
+input[type="submit"].btn-normal {
+	background: @color-link;
+}
+
+input[type="submit"].btn-normal:hover {
+	color: @color-link;
+	border-color: @color-link;
+}
+
+.btn-normal.style2 {
+	color: @color-link;
+	border-color: @color-link;
+}
+
+.btn-normal.style2:hover {
+	background: @color-link;
+}
+
+input[type="submit"].btn-normal.style2 {
+	color: @color-link;
+	border-color: @color-link;
+}
+
+input[type="submit"].btn-normal.style2:hover {
+	background: @color-link;
+}
+
+.service-box.style2 i {
+ 	border-color: @color-link;
+}
+
+.team-box.style2 {
+ 	background-color: @color-bg1;
+}
+
+.team-box.style2:hover {
+ 	background-color: #333;
+}
+
+.team-box.style2:hover h3 {
+	color: @color-txt1;
+}
+
+.team-box.style2 .team-sns {
+	color: @color-txt1;
+}
+
+.team-box.style2 .team-sns:hover {
+	color: @color-link;
+}
+
+.testimonials-box.style2 .testimonials-content::after {
+	border-bottom-color: @color-bg1;
+}
+
+
+.timeline-top .project::after {
+	border-color: transparent;
+	border-top-color: #eee;
+}
+
+.timeline-top .project-box:hover .project::after {
+	border-color: transparent;
+	border-top-color: #333;
+}
+
+.timeline-bottom .project::after {
+	border-color: transparent;
+	border-bottom-color: #eee;
+}
+
+.timeline-bottom .project-box:hover .project::after {
+	border-color: transparent;
+	border-bottom-color: #333;
+}
+
+.portfolio-title {
+	color: @color-txt1;
+}
+
+h1.portfolio-title,
+h1.portfolio-title a {
+	color: @color-title1;
+}
+
+.portfolio-page i:hover {
+	color: @color-link;
+}
+
+.site-info,
+.site-info a {
+	color: #fff;
+}
+
+.site-info a:hover {
+	text-decoration: none;
+	color: @color-link;
+}
+
+.accordion.active .accordion-title i,
+.accordion-title:hover i,
+.accordion-title:active i {
+	background-color: @color-link;
+}
+
+.accordion.active .accordion-title h3,
+.accordion-title:hover h3,
+.accordion-title:active h3 {
+	color: @color-link;
+}
+
+.tab-box .nav-tabs {
+	border-bottom-color: @color-link;
+}
+
+.tab-box .nav-tabs > li.active a,
+.tab-box .nav-tabs > li > a:hover {
+	background-color: @color-link;
+}
+
+.tab-box .nav-tabs > li.active a::after {
+	border-top-color: @color-link;
+}
+
+.owl-theme .owl-controls .owl-page span{
+	background-color: @color-txt2;
+}
+
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span{
+	filter: Alpha(Opacity=100);/*IE7 fix*/
+	opacity: 1;
+	background-color: @color-link;
+}

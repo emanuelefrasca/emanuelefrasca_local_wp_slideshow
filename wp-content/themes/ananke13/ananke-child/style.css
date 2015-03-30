@@ -1,0 +1,16 @@
+/*
+ Theme Name:     Ananke Child Theme (shared GFXFree.net)
+ Theme URI:      http://demo.vegatheme.com/ananke
+ Description:    Ananke Child Theme
+ Author:         OceanThemes
+ Author URI:     http://vegatheme.com
+ Template:       ananke
+ Version:        1.0.0
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  ananke-child
+*/
+ 
+@import url("../ananke/style.css");
+
+/* =Theme customization starts here
+------------------------------------------------------- */
